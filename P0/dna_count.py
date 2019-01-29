@@ -1,0 +1,8 @@
+dna_seq = str(input('Please introduce the DNA sequence: '))
+dna_seq=dna_seq.upper()
+length=len(dna_seq)
+print('The lenght of the introduced DNA sequence is: ', length)
+print('The number of times we can find A in the DNA sequence: ', dna_seq.count('A'))
+print('The number of times we can find C in the DNA sequence: ', dna_seq.count('C'))
+print('The number of times we can find T in the DNA sequence: ', dna_seq.count('T'))
+print('The number of times we can find G in the DNA sequence: ', dna_seq.count('G'))
