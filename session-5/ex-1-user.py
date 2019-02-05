@@ -24,3 +24,7 @@ else:
 
 print("This sequence is {} bases in length".format(tl))
 print("The percentages of As is {}%".format(perc))
+
+    
+print("This sequence is {} bases in length".format(tl))
+print("The percentages of As is {}%".format(perc))
