@@ -1,0 +1,43 @@
+Here you will take your notes:
+
+CLIENT-SERVER MODEL:
+
+The client starts the communication, the client can be a computer, a tablet, a mobile phone..
+The server recieves the  information and creates a response, inside the server's computer there can be more than one computer
+
+The client and the server are connected through a network known as the Internet that has been designed to allow communication between to computers,
+never the less, there are a lot of things happening in the process
+
+The server has a network interface and a IP address
+
+IP address of the mobile phone: 10.3.53.52
+IP address of the computer: 212.128.253.106
+Teacher's IP: 212.128.253.64
+
+ping is like a command to see if the computer is alive
+each line of response is a ping, it shows the time spent in going to the computer and come back to send the message
+
+* ping time to 8.8.8.8
+time=4.871 ms
+
+* ping to my computer:
+time=0.032 ms
+
+* ping to my partner's computer:
+time=0.603 ms
+
+* ping time to my phone:
+time=42.396 ms
+
+* ping to www.google.com
+216.58.211.228
+
+* ping to www.urjc.es
+212.128.240.50
+
+Universal Resource Locator (URL): For identifying a computer interface for humans
+
+Usually the port is located in the location 80. The computer has an IP and a port, using the same
+
+
+Helllo!!!! just writing into your file!
