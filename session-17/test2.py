@@ -4,7 +4,7 @@ import termcolor
 # -- Open the json file
 f = open("person_2.json", 'r')
 
-# Read the data from the file
+# Read the data  from the file
 # Now person is a dictionary with all the information
 person = json.load(f)
 
